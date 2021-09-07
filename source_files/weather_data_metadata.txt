@@ -1,2 +1,0 @@
-Monthly data. Temperature is deg. F, Precipitation is inches.
-Date column does not contain unique entries, data is split by region, each region was appended to the csv.
